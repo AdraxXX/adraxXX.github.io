@@ -1,9 +1,9 @@
 let profile = 
 {
-    "firstName":"Daniel",
+    "firstName":"Danie",
     "lastName":"Johnston",
     "address":"Naperville Illinois",
-    "email":"Daniel.august.j@gmail.com",
+    "email":"Danie.august.j@gmail.com",
     "projects":
     [
         {"name":"Texted-Based RPG Game Engine", "url":"https://github.com/CompILe-Club/textbased_rpg", "status":"Complete",
